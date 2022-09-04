@@ -4,5 +4,5 @@ are more likely to be afflicted with one or more chronic conditions that can cau
 
        Lifestyle change like being physically active every day helps to prevent a heart disease and live healthy life. 
 Research has shown that at least 150 minutes per week of moderate-intensity physical activity can help lower 
-blood pressure, lower cholesterol and keep your weight at a healthy level. Studies show that people who have achieved even a moderate 
-level of fitness are much less likely to die early than those with a low fitness level.
+blood pressure, lower cholesterol and keep your weight at a healthy level. Studies show that people who have achieved 
+even a moderate level of fitness are much less likely to die early than those with a low fitness level.
