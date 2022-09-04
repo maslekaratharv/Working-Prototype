@@ -11,3 +11,10 @@ even a moderate level of fitness are much less likely to die early than those wi
 engages your core, strengthens all the muscles in your legs, gets your heart rate up and improves momentum, 
 coordination and flexibility. Exercising high knees and toe touch can make Sunita Sharma's health and life 
 better.
+
+       Exercise monitoring system has been designed using computer vision that is capable of analysing Sunita Sharma's
+exercise in real time. This analysis will be very useful for doctors to check her fitness status with the help of
+monitoring system in real time.
+
+       Similarly, various monitoring systems (for example: analysis of sleep as good amount of sleep is must required 
+for old women ) can be designed to analyse her fitness that will help to make her health and life much better.
